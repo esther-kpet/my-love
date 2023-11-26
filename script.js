@@ -7,16 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "T'es babière pour laisser couler cette chance 🫠!";
     gif.src =
-        "love.gif";
-    <lottie-player
-        src="love.json"
-        background="transparent"
-        speed="1"
-        style="width: 300px; height: 300px"
-        loop
-        controls
-        autoplay
-    ></lottie-player>
+        "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";;
 });
 
 noBtn.addEventListener("mouseover", () => {
