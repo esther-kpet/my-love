@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Esthy t'es la meilleure 😍!";
+    question.innerHTML = "T'es babière pour laisser couler cette chance 🫠!";
     gif.src =
         "love.gif";
 });
