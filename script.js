@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "T'es babière pour laisser couler cette chance 🫠!";
+    question.innerHTML = "Ton babière pour laisser couler cette chance 🫠!";
     gif.src =
         "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";;
 });
